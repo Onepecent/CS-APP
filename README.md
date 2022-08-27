@@ -33,7 +33,11 @@ n+1
 
 ----
 
-第三版 第二章家庭作业
+第三版 第二章家庭作业（错误点家庭作业2.87最后一行，评论区已经评论改正后的结果）
 [好文章]https://blog.csdn.net/weixin_30902675/article/details/94782128?spm=1001.2101.3001.6650.3&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-3-94782128-blog-115558675.pc_relevant_multi_platform_featuressortv2dupreplace&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-3-94782128-blog-115558675.pc_relevant_multi_platform_featuressortv2dupreplace&utm_relevant_index=4
+
+----
+
+https://zhuanlan.zhihu.com/p/379680768
 
 ----
