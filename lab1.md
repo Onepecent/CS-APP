@@ -1,3 +1,11 @@
+----
+
+答案：<br />
+https://zhuanlan.zhihu.com/p/339047608
+
+----
+
+
 #endif
 //1
 /* 
@@ -159,3 +167,4 @@ int floatFloat2Int(unsigned uf) {
 unsigned floatPower2(int x) {
     return 2;
 }
+
